@@ -1,5 +1,5 @@
 # Python
-This repo is mainly for creating python programs. Data structures implemented with pythons
+This repo is mainly created for beginners to learn python coding from the scratch.
 
 
 ## Python basics
